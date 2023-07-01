@@ -1,3 +1,10 @@
+## Weather app [Live](https://weather-app-next.netlify.app/)
+
+this project uses API from https://openweathermap.org/
+and [Current Weather Data API](https://openweathermap.org/current) used.
+
+##
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
